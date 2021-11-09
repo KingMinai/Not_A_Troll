@@ -1,0 +1,21 @@
+.Redbig {
+    font-family: Comic Sans MS;
+    font-size: 100px;
+    color: #ffe8d6;
+    text-shadow: 1px 3px #000011;
+    text-align: center;
+}
+.Bottomtext {
+    font-family: Arial;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.ricky {
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    color: #6b705c;
+    text-align: left;
+    text-shadow: 0.5px 0.5px #DFDFDF;
+}
