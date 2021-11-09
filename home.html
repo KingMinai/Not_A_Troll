@@ -45,8 +45,11 @@
     //player.unMute();
     setTimeout(function(){
     player.unMute();
+    setTimeout(function(){
+    event.target.playVideo();
 }, 2000);
-      event.target.playVideo();
+}, 2000);
+      
   }
 
   // 5. The API calls this function when the player's state changes.
